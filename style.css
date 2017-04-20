@@ -1,0 +1,80 @@
+.info {
+         border: 1px solid #0FA3B1;
+    padding: 25px;
+    margin: 25px;
+    color : #ffffff;
+    width : 290px;
+    height : 100px;
+}
+body{
+    background-color : #0A2342 ;
+}
+p , form , h1{
+    color : #0FA3B1;
+}
+.twitter1 {
+    border : 1px solid #0FA3B1;
+    padding : 25px;
+    margin : 25px;
+    color : transparent;
+    width : 480px;
+    height : 480px;
+}
+.gravatar{
+         border: 1px solid #0FA3B1;
+    padding: 25px;
+    margin: 25px;
+    color : #0FA3B1;
+    width : 480px;
+    height : 480px;
+}
+.twitter{
+         border: 1px solid #0FA3B1;
+    padding: 25px;
+    margin: 25px;
+    color : #0FA3B1;
+    width : 480px;
+    height : 480px;
+}
+.facebook{
+         border: 1px solid #0FA3B1;
+    padding: 25px;
+    margin: 25px;
+    color : #0FA3B1;
+    width : 480px;
+    height : 480px;
+}
+input[type="text"], input[type="email"],input[type="password"]
+{
+    background: transparent;
+    border: none;
+    color : #ffffff;
+}
+input[type="submit"]{
+    color : #ffffff;
+    background : transparent;
+    border: 2px solid #D9E5D6;
+}
+.take{
+    text-transform: uppercase;
+    background : transparent;
+    border : none;
+    color : #ffffff;
+ border-bottom: 1px solid #0A2342;    
+}
+a:link{
+    color : #ffffff;
+    
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #ffffff;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #ffffff;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #ffffff;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #ffffff;
+}
