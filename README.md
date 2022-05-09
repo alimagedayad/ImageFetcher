@@ -1,3 +1,4 @@
 # ImageFetcher
 
-# DEPRICATED
+# DEPRECATED
+
